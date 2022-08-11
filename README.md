@@ -1,1 +1,1 @@
-# FFT
+# 基于vivado2018.3和vivado hls 2018.3编写，zynq上运行PYNQ2.4
